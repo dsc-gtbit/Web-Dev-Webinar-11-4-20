@@ -1,7 +1,7 @@
 Resources for web development
 
-<https://www.w3schools.com/>
-<https://developer.mozilla.org/en-US/>
-<https://www.freecodecamp.org/>
-<https://css-tricks.com/>
+[W3 Schools](https://www.w3schools.com/)
+[Mozilla](https://developer.mozilla.org/en-US/)
+[Freecodecamp](https://www.freecodecamp.org/)
+[CSS Tricks](https://css-tricks.com/)
 
